@@ -4,7 +4,7 @@ Employee Cafeteria Discount System – Frontend
 This repository contains the frontend of the SDFCE (Sistema de Descontos dos Funcionários na Cantina da Empresa) — a web application developed to manage and automate employee discount eligibility in the company's cafeteria.
 
 # 🔍 Project Overview
-SDFCE was created to streamline the management of cafeteria meal discounts for employees, based on attendance, work shifts, or predefined eligibility rules. The platform eliminates the need for manual verification, promoting accuracy, transparency, and efficiency in cafeteria operations.
+SDFCE was created to streamline the management of cafeteria meal discounts for employees. The platform promotes accuracy, transparency, and efficiency in cafeteria operations.
 
 # 🎯 Purpose
 Automate the discount process for employee meals
